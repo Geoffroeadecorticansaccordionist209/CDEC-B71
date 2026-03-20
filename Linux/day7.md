@@ -6,6 +6,7 @@
 # Vim Editor Fundamentals
 
 ---
+<img width="745" height="291" alt="Screenshot 2026-03-20 at 2 12 06 PM" src="https://github.com/user-attachments/assets/6fca116e-5580-4118-8975-8f593836fa08" />
 
 ## Overview of Vim & History
 
